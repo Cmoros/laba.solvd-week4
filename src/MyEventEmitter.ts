@@ -1,5 +1,3 @@
-import EventEmitter from "events";
-
 export type Listener = (...args: any[]) => void;
 
 export default class MyEventEmitter {
