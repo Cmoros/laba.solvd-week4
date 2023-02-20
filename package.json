@@ -1,8 +1,8 @@
 {
-  "name": "week3",
+  "name": "week4",
   "version": "1.0.0",
   "description": "",
-  "main": "fibonacci.js",
+  "main": "./src/MyEventEmitter.ts",
   "scripts": {
     "test": "jest MyEventEmitter",
     "compile": "tsc",

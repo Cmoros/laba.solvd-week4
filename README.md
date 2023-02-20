@@ -62,6 +62,6 @@ There is also a explained solution of order of execution of the next exercise:
 
 ### [🔗 Main Exercise](./orders/order.ts)
 
-### [🔗 Explanation](./orders/README.md)
+#### [🔗 Explanation](./orders/README.md)
 
-### [🔗 Other orders of execution / tests](./orders/otherOrders/)
+#### [🔗 Other orders of execution / tests](./orders/otherOrders/)
